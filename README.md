@@ -1,5 +1,5 @@
 #  About Me:
-I am a second-year aerospace undergraduate studying at the University of Nottingham.<br>Many of my coursework require the use of MATLAB/Simulink or can be aided by it.<br><br>Current coursework:<br>    - Designing and Simulating a roll-rate control system where aileron actuator dynamics are<br>       explicitly modelled<br>    - Processing data from a Micro Turbine Lab and analysing the same Micro Turbine in Gas Turb 
+I am a second-year aerospace undergraduate studying at the University of Nottingham.<br>Many of my coursework require the use of MATLAB/Simulink or can be aided by it.<br><br>Current coursework:<br>    - Designing and Simulating a roll-rate control system where aileron actuator dynamics are explicitly modelled<br>    - Processing data from a Micro Turbine Lab and analysing the same Micro Turbine in Gas Turb 
 
 
 ##  Socials:
