@@ -4,8 +4,9 @@ Many of my coursework require the use of MATLAB/Simulink or can be aided by it.<
 This account is exclusively for university work, and as such, much of it is private.<br><br>
 
 Current coursework:<br>    
-- Designing and Simulating a roll-rate control system where aileron actuator dynamics are explicitly modelled<br>
-- Processing data from a Micro Turbine Lab and analysing the same Micro Turbine in Gas Turb 
+- Designing and Simulating a roll-rate control system for a small aircraft in MATLAB/Simulink<br>
+- Processing data from a Micro Turbine Lab and analysing the same Micro Turbine in Gas Turb<br>
+- Optimising the design of a tilt-rotor mechanism of a  small electric aircraft using CATIA
 
 
 ##  Socials:
