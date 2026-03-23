@@ -24,9 +24,11 @@ Current coursework:<br>
 ![MATLAB](https://img.shields.io/badge/Gas_Turb-grey?style=for-the-badge) 
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FinlayWG&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FinlayWG&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FinlayWG&theme=default&no-frame=true&no-bg=true&margin-w=4)
