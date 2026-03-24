@@ -1,7 +1,5 @@
 #  About Me:
-I am a second-year aerospace undergraduate studying at the University of Nottingham.<br>
-Many of my coursework require the use of MATLAB/Simulink or can be aided by it.<br> 
-This account is exclusively for university work, and as such, much of it is private.<br><br>
+I am a second-year aerospace undergraduate studying at the University of Nottingham. Many of my coursework require the use of MATLAB/Simulink or can be aided by it. This account is exclusively for university work, and as such, much of it is private.<br><br>
 
 ### Current coursework:<br>    
 - Designing and Simulating a roll-rate control system for a small aircraft in MATLAB/Simulink<br>
