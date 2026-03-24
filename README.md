@@ -24,13 +24,9 @@ Current coursework:<br>
 ![MATLAB](https://img.shields.io/badge/Gas_Turb-grey?style=for-the-badge) 
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![FinlayWG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![FinlayWG's Stats](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![FinlayWG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true)
+![FinlayWG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FinlayWG&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
