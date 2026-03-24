@@ -24,8 +24,8 @@ Current coursework:<br>
 ![MATLAB](https://img.shields.io/badge/Gas_Turb-grey?style=for-the-badge) 
 
 #  GitHub Stats:
-![FinlayWG's Stats](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![FinlayWG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true)
+![FinlayWG's Stats](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true)<br>
+![FinlayWG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true)<br>
 ![FinlayWG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ##  GitHub Trophies
