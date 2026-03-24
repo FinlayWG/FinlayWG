@@ -6,10 +6,6 @@ I am a second-year aerospace undergraduate studying at the University of Notting
 - Processing data from a Micro Turbine Lab and analysing the same Micro Turbine in Gas Turb<br>
 - Optimising the design of a tilt-rotor mechanism of a  small electric aircraft using CATIA
 
-
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/finlay-wooldridge-gribbin) 
-
 #  Software Used:
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge) 
 ![Simulink](https://img.shields.io/badge/Simulink-blue?style=for-the-badge) 
@@ -21,14 +17,13 @@ I am a second-year aerospace undergraduate studying at the University of Notting
 ![Bambulab](https://img.shields.io/badge/Bambu_Studio-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/Gas_Turb-grey?style=for-the-badge) 
 
+##  Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/finlay-wooldridge-gribbin) 
+
 #  GitHub Stats:
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true"> 
-</p>
-<p align="center" width="100%">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true"> 
-</p>
-<p align="center" width="100%">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true"><br>
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true"><br>
     <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&layout=compact"> 
 </p>
 
