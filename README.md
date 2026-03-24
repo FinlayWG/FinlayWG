@@ -24,9 +24,15 @@ This account is exclusively for university work, and as such, much of it is priv
 ![MATLAB](https://img.shields.io/badge/Gas_Turb-grey?style=for-the-badge) 
 
 #  GitHub Stats:
-![FinlayWG's Stats](https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true)<br>
-![FinlayWG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true)<br>
-![FinlayWG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<p align="center" width="100%">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&count_private=true"> 
+</p>
+<p align="center" width="100%">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=FinlayWG&theme=prussian&hide_border=true"> 
+</p>
+<p align="center" width="100%">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinlayWG&theme=prussian&show_icons=true&hide_border=true&layout=compact"> 
+</p>
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FinlayWG&theme=default&no-frame=true&no-bg=true&margin-w=4)
